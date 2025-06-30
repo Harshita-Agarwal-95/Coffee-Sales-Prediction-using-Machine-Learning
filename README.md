@@ -1,1 +1,1 @@
-# Coffee-Sales-Prediction-using-Machine-Learning
+Coffee sales from vending machines vary with time, day, and consumer preferences. This project utilizes machine learning techniques to analyze historical transaction data and predict coffee sales trends. The aim is to support inventory optimization, pricing strategies, and improved customer satisfaction. Key insights into peak sales periods and top-selling products provide valuable business intelligence for decision-making.
